@@ -179,7 +179,7 @@ class fssai_multiple_filing:
             "primarymobile":input_data["result"]["payload"].get("client_mobile",""),
             "secondaryemail":input_data["result"]["payload"].get("created_by_email",""),
             "secondarymobile":input_data["result"].get("rm_mobile",""),
-            "password":"India@123",
+            "password":"I##23",
             "Incharge_operation":input_data["result"]["payload"].get("client_name",""),
             "qualification":input_data["people_data"].get("qualification",""),
             "mobile_no":input_data["result"]["payload"].get("client_mobile",""),
