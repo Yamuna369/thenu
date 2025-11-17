@@ -1,6 +1,12 @@
 # Project Portfolio – Yamuna Elangovan  
 
-I am Yamuna and I specialize in Python automation(Backend developer) and I have built tools that simplify the complexity for form filing and client workflows.
+## 📌 About Me  
+
+My name is Yamuna Elangovan. I completed my MSc in Information Technology from Alagappa University, Devakottai. I have one year of real-time experience as a Software Developer at IndiaFilings Pvt. Ltd., Chennai, from September 2024 to November 2025.
+
+My work mainly focused on backend development and automation. I built automated workflows using Selenium for government portals such as FSSAI registration, eMudhra, and Care4Sign. These involved end-to-end form submission, OTP handling, CAPTCHA solving, and extracting application IDs. I also developed APIs using Flask, integrated GET/POST workflows, handled JSON data, and tested APIs using Postman. I have hands-on experience with SQL for storing and managing structured data.
+
+I am currently looking for a Software Developer or QA Automation role where I can apply my backend, automation, and problem-solving skills while continuing to grow into a stronger developer.
 
 📍 Chennai, India  
 📧 yamunathenu2002@gmail.com  
@@ -8,10 +14,31 @@ I am Yamuna and I specialize in Python automation(Backend developer) and I have 
 🔗 [GitHub](https://github.com/Yamuna369)  
 
 ---
+# Experience 
+# Software Developer 
+    I built an automation system for government registrations like FSSAI and DSC using Flask and Selenium. The client sends user data and documents in JSON, and my Flask API starts a Selenium thread that automatically fills government forms, solves CAPTCHA, uploads decoded base64 documents, handles OTP verification, and extracts the final application numbers. I also implemented session management, OTP polling, OCR-based CAPTCHA solving, and temporary file handling. This system reduced manual work, minimized errors, and improved speed.
+    
+# Responsibilities
 
-## 📌 About Me  
-Motivated and detail-oriented **Software Developer** with 1 year of real-time experience in **automation, web scraping, backend development, and SQL database management**.  
-I specialize in **Python automation using Flask + Selenium** and have built tools that simplify complex government and client workflows.  
+Developed and maintained Python-based automation scripts using Selenium to streamline data entry, form submission, and verification workflows.
+
+Built Flask APIs for handling automation triggers, CAPTCHA solving, and integration with internal tools.
+
+Implemented web scraping solutions using Selenium and BeautifulSoup to extract, clean, and structure data from government and third-party portals.
+
+Designed dynamic form-handling logic to manage conditional dropdowns, category mappings, and multi-step application flows.
+
+Created CAPTCHA automation pipelines, including model-based predictions, API-based solvers, and retry logic for incorrect validation.
+
+Performed API integration and testing using Python, Flask, requests, and Postman.
+
+Monitored automation runs, logged failures, and performed quick fixes to ensure smooth execution and data accuracy.
+
+Improved application reliability by implementing error handling, retry mechanisms, timeouts, and exception logging.
+
+Optimized Python modules, reusable components, and helper functions to reduce code duplication and increase maintainability.
+
+Coordinated with senior developers and ops teams to deploy automation scripts, update configurations, and handle real-time issues.
 
 ---
 
