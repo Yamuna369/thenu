@@ -10,7 +10,6 @@ I am currently looking for a Software Developer or QA Automation role where I ca
 
 📍 Chennai, India  
 📧 yamunathenu2002@gmail.com  
-📞 +91 9080507795  
 🔗 [GitHub](https://github.com/Yamuna369)  
 
 ---
