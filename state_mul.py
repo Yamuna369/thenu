@@ -1138,11 +1138,11 @@ class fssai_multiple_filing:
                     encoded_string = img.screenshot_as_base64  
                     time.sleep(2)
                     dataP = {
-                        "username": "lionelcharles",
-                        "password": "IndiaFilings.com",
+                        "username": "xxx",
+                        "password": "yyy",
                         "captchafile": "base64:" + str(encoded_string)
                     }
-                    url = "http://api.dbcapi.me/api/captcha"
+                    url = "http:/abc/captcha"
                     response = requests.post(url, data=dataP)
             
                     parameter_dict = parse_qs(response.text)
